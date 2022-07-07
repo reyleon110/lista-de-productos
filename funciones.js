@@ -1,24 +1,24 @@
 
 <HTML>
 
-<h1> LOS DIAS DE LA SEMANA</h1>
+<h1> Lista de productos </h1>
 <body>
-        </htnl>
-<h2> Lunes </h2>
-<h3>  En la mañana </h3>
-<h4> Los lunes inicio mi semana tomando cafe, normalmente voy al trabajo en bicicleta </h4>
-<h3> En la tarde </h3>
-<h4> En la tarde </h3>
-<h2> Martes </h2>
-<h3> En la mañana </h3>
-<h4> Desayuno frutas y verduras </h4>
-<h3> Miercoles </h3>
-<h4> hice lo mismo que ayer</h4>
-<h3> Jueves </h3>
-<h4> A que no adivinan </h4>
-<h3> Viernes </h3>
+        </html>
+<h2> verduras y organicos </h2>
+<h3>  repollo,lechuga,zanahorias </h3>
+<h4> todo fresco desde la granja </h4>
+<h3> cultivado libre de pesticidas </h3>
+<h4> recolectado a diario </h3>
+<h2> Cereales </h2>
+<h3> Maiz,frijol,arroz </h3>
+<h4>  ademas para el Desayuno frutas y verduras </h4>
+<h3> Panaderia </h3>
+<h4> pan frances y pan dulce para el cafe</h4>
+<h3> Limpieza </h3>
+<h4> productos para el piso </h4>
+<h3> ASEO, jabon y champu </h3>
 <h4> no hice nada </h4>
-<h3> Sabado </h3>
-<h4> tampoco hoy </h4>
-<h3> Domingo </h3>
-<h4> feliz fin de semana </h4>
+<h3> snacks </h3>
+<h4> galletas y miel </h4>
+<h3> Dairy products </h3>
+<h4> leche, quwzo y crema </h4>
